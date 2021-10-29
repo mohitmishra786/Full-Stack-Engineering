@@ -62,4 +62,4 @@ Though it is important to know, that HTML does not include any instructions rega
 Here are some of the video explanation :-
 
 - [Job of Web Browsers](https://www.youtube.com/watch?v=uE3UPEK26U0)
-- [Big Picture of How Web Works](https://www.youtube.com/watch?v=hJHvdBlSxug)
+- [Big Picture of How Does Web Works](https://www.youtube.com/watch?v=hJHvdBlSxug)
