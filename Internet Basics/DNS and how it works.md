@@ -6,7 +6,7 @@
 
 - It is simply a technology which allows anyone to resolve host name like `google.com` , `microsoft.com` something like IP-ADDRESS. 
 
-- For example -> `google.com` as 65.2.45.64.443 (It's not correct, just an example).
+- For example -> `google.com` as `65.2.45.64.443` (It's not correct, just an example).
 
 - It's the naming database that locates and translates internet domain names into IP addresses. Similiar to phone contact list which matches contact name to t's phone number.
 
