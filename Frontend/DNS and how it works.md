@@ -2,7 +2,7 @@
 
 ## What is DNS
 
-- It's the naming database that locates and translates internet domain names into IP addresses. Similiar to phone contact list whic matches contact name to t's phone number.
+- It's the naming database that locates and translates internet domain names into IP addresses. Similiar to phone contact list which matches contact name to t's phone number.
 
 - As more than 1 person can access to the same domain name at the same time so a domain name can corresponds to more than one IP address Each will receive a unique IP address from different servers.
 
