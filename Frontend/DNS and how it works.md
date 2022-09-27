@@ -10,7 +10,7 @@
 
 ## How DNS works
 
-When you will type `ww.example.com` then it will actually search for `www.example.com.`(Dot at the end of the call). That `Dot` at the end represent's `The ROOT` of the internet's namesoace.
+When you will type `ww.example.com` then it will actually search for `www.example.com.`(Dot at the end of the call). That `Dot` at the end represent's `The ROOT` of the internet's namespace.
 
 - When you will search for `www.google.com.` then our `OS` and `Browser` will search in themselves for that url. It could be configured into computer or it could be `cache` (memory).
 - Now if both OS and Browser don't know the IP address of this domain name then they are configured ask for that to `Resolving Name Server`. RNS is configured both manually and automatically.
