@@ -2,23 +2,26 @@
 
 [HTTP Video Explanation](https://www.youtube.com/watch?v=LZJNj-HHfII&t=59s)
 
+# What is HTTP?
+- HTTP is a plain text language.
+
 # Status Codes
 
 * `1XX` - Information
 * `2XX` - Sucess
 * `3XX` - Redirect
 * `4XX` - Client Erros (like `404 NOT FOUND`)
-* `5XX` - Server Error (like `503 Server Not Available`
+* `5XX` - Server Error (like `503 Server Not Available`)
 
 ## Firstly, know that:
 - URLs are a type of URI
 - URNs are a type of URI
 - URCs are a type of URI
-- etc..
+etc..
 
 ---
 ## URI 
- - a standard for identifying documents using a short string of numbers, 
+ - A standard for identifying documents using a short string of numbers, 
 letters, and symbols.
  - defined by https://datatracker.ietf.org/doc/html/rfc3986
  

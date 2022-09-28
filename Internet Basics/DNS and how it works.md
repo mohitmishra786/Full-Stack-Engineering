@@ -14,10 +14,11 @@
 
 - If we will have only one IP address then that will make everyone to wait up for their turn for opening the domain name.
 
+- The main task of DNS is to find the IP Address associated with the given domain name. The process of finding the IP Address is known as DNS Lookup.
+
 ## DNS Resolver
 
 - Basically DNS Resolver is the hard coded IP Address which our computers uses to connect to any site (ex - `google.com`)
-- 
 
 ## How DNS works
 
