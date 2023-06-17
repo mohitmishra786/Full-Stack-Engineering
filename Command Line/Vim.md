@@ -19,3 +19,7 @@ So, which command should you use? It depends on your needs. If you want to make 
 - If you have made some changes to a file and you want to save them and quit Vim, you would use :wq.
 - If you have not made any changes to a file and you want to quit Vim, you would use :x.
 - If you want to write the buffer to disk and then keep working in Vim, you would use :w.
+
+### Course For In Depth Learning
+
+- https://www.openvim.com/
