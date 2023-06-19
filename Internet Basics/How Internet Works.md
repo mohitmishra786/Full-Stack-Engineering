@@ -18,3 +18,8 @@
 - If you had a permanent connection to the intended destination or if your email traveled as a whole instead of in pieces, an entire portion of the network would be blocked every time you sent a message. With packet switching, many people can use the Internet at the same time.
 
 - There are millions upon millions of servers on the Internet. Servers store information. There are file servers, mail servers and web servers. The Internet is also made up of routers. Routers simply make connections between different systems. For instance, at work or school, where several computers are networked, you are connected to one router – a single point of entry for the Internet.
+
+![How It Works](./images/image.png)
+
+- `Tier 1 ISP` is the backbone here.
+
