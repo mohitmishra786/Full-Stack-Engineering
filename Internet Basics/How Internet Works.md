@@ -1,13 +1,13 @@
-# How Internet Works
+# `How Internet Works`
 
 [How Internet Works Video Explantion](https://www.youtube.com/watch?v=7_LPdttKXPc)
 
 
-## What actually Internet is ?
+## `What actually Internet is ?`
 
 - The Internet is not a fuzzy cloud. The internet is a wire, actually buried in the ground. Computers connected directly to the internet are called `Servers`, while the computers you and I use are "clients," because they are not connected directly to the internet, but through an Internet Service Provider. Routers shuttle packets of information across the internet, and transmit e-mail, pictures, and web pages.
 
-## How  it Works
+## `How  it Works`
 
 ![image](https://user-images.githubusercontent.com/71754779/138799723-890cc7ac-00bf-483c-90f9-69fd7f4c5c5c.png)
 
@@ -22,4 +22,10 @@
 ![How It Works](./images/image.png)
 
 - `Tier 1 ISP` is the backbone here.
+- One Website can run on multiple server so they will also have multiple IP address.
+
+## `URL (Uniform Resource Locator)`
+
+![Alt text](./images/image4.png)
+
 

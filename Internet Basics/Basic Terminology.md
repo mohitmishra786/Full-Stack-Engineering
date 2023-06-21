@@ -32,3 +32,8 @@
 - `ICMP` - Internet COntrol Message Protocol. It is generally build over TCP or UDP, generally TCP.
 - `Packet` - Unit of data transmitted over a network.
 - `Ping of Death` - A ping of death (PoD) attack is a type of denial-of-service (DoS) attack in which an attacker sends an oversized ICMP packet to a target computer. The oversized packet causes the target computer to crash or freeze, making it unavailable to legitimate users.
+- `DNS` - Domain Name System
+- `Nameserver` - hold DNS records to translate domain names into IP addresses.
+- `A record` - maps name to IP address
+- `CNAME` - maps name to name
+- `URL` - Uniform Resource Locator
