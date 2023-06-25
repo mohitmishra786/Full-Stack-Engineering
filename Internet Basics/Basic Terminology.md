@@ -37,3 +37,5 @@
 - `A record` - maps name to IP address
 - `CNAME` - maps name to name
 - `URL` - Uniform Resource Locator
+- `Port` - Communication endpoint that maps to specific process or network service. It allows us to have multiple services on same ip address. Even thousands.
+- `ufw` - Uncomplicated Firewall
