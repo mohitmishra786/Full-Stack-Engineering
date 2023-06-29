@@ -12,3 +12,36 @@
 
 - It executes commands on a schedule.
 - `crontab.guru`
+
+![Alt text](./images/image.png)
+
+- **Shows Cronjobs** - `crontab -e`
+- **Follow the output of a file** - `tail -f`
+- **Output the first part of a file** - `head`
+- **Output the last part of file** - `tail`
+- **Output one page at time** - `less`
+- **Output entire file** - `cat`
+
+## Standard Streams
+
+- standard output - `stdout`
+- standard input - `stdin`
+- standard error - `stderr`
+- read from stdout - `|`
+- write stdout to file - `>`
+- append stdout to file - `>>`
+- read from stdin - `<`
+- redirect both stderr & stdout - `2>&1`
+
+
+## Finding Things
+
+- `find` - search file names
+    - Example - `sudo find / -type d -name log` or `sudo find /var/log -type f -name "*.log"`
+- `grep` - search file contents
+
+![Alt text](./images/image1.png)
+
+## TO Run Last Command with Sudo
+
+- `sudo !!`
